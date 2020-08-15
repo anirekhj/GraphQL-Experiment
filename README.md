@@ -1,2 +1,2 @@
-# GraphQL-Experiment
+# Hacker-News
 Playing around with graphQL
